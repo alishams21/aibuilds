@@ -15,3 +15,26 @@ This repository includes self-contained AI projects with code, data (or links to
 - **Educational** – Learn concepts through hands-on builds.
 
 ---
+
+## To Run
+
+- **Create a virtual environment**
+
+```bash
+conda env create -f environment.yml 
+```
+
+
+- **Activate the virtual environment**
+
+```bash
+conda activate llms
+```
+
+- lunch jupyter lab
+
+```bash
+jupyter lab
+```
+
+
