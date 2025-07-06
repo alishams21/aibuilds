@@ -1,0 +1,17 @@
+openai
+transformers
+torch
+torchvision
+torchaudio
+tensorflow
+keras
+streamlit
+gradio
+langchain
+python-dotenv
+requests
+beautifulsoup4
+pillow
+opencv-python
+nltk
+spacy
